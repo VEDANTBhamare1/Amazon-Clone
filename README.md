@@ -1,5 +1,5 @@
 # Amazon-Colne
 this is my first repository.
 <br>
-Author- Vedant Bhamare
+Author- Vedant Bhamare Pune
 
